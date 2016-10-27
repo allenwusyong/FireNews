@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630039482214",
+    "firebase_url": "https://firenews-7a852.firebaseio.com",
+    "project_id": "firenews-7a852",
+    "storage_bucket": "firenews-7a852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630039482214:android:67104a5df73c426f",
+        "android_client_info": {
+          "package_name": "com.givemepass.allenwu.firenews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630039482214-ef8p89go3pl45tee6se1d7a0876g601h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.givemepass.allenwu.firenews",
+            "certificate_hash": "C4D3F9D38E301ED124D4408B7D141B30E69EF0AA"
+          }
+        },
+        {
+          "client_id": "630039482214-n2dih3cratvkfh2idcdsj0g12khegvci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxWdHdKhVDpTwQmm6PWSjGtTe-6jTvQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630039482214-n2dih3cratvkfh2idcdsj0g12khegvci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
