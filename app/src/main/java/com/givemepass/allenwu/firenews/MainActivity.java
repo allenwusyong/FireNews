@@ -25,6 +25,7 @@ import com.google.firebase.messaging.FirebaseMessaging;
 
 
 public class MainActivity extends AppCompatActivity {
+    //referenced by    http://litotom.com/2016/08/02/firebase-news-glide/
     private AdView mAdview;
     private static final String TAG ="MainActivity" ;
     private EditText edtEmail,edtPass;
